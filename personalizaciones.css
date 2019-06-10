@@ -1,0 +1,40 @@
+body{
+	background-image: url("../img/fondo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.circle{
+	width: 120px;
+	height: 120px;
+}
+
+
+
+
+.slogan{
+	margin-top: 2rem;
+}
+
+.articulo1{
+	margin-right: 10px;
+}
+
+.imagen{
+	width: 90%;
+	height: auto;
+	padding: 5px;
+}
+
+.imagen1{
+	width: 90%;
+	height: 500px;
+	padding: 5px;
+}
+
+.autor{
+	display:block;
+	margin:auto;
+	margin-top: 50px;
+	border-radius: 50%;
+}
